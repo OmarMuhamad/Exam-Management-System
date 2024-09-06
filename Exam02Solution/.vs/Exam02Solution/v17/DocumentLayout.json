@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\Projects\\Exam02Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|d:\\depi\\projects\\exam02solution\\exam02solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|solutionrelative:exam02solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|d:\\depi\\projects\\exam02solution\\exam02solution\\exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|solutionrelative:exam02solution\\exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|d:\\depi\\projects\\exam02solution\\exam02solution\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|solutionrelative:exam02solution\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|d:\\depi\\projects\\exam02solution\\exam02solution\\exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|solutionrelative:exam02solution\\exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|d:\\depi\\projects\\exam02solution\\exam02solution\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7B95E-36B8-4256-9630-E71C8BA0F581}|Exam02Solution\\Exam02Solution.csproj|solutionrelative:exam02solution\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Subject\\Subject.cs",
+              "RelativeDocumentMoniker": "Exam02Solution\\Subject\\Subject.cs",
+              "ToolTip": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Subject\\Subject.cs",
+              "RelativeToolTip": "Exam02Solution\\Subject\\Subject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:54:09.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Question\\Question.cs",
+              "RelativeDocumentMoniker": "Exam02Solution\\Question\\Question.cs",
+              "ToolTip": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Question\\Question.cs",
+              "RelativeToolTip": "Exam02Solution\\Question\\Question.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:49:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Exam02Solution\\Program.cs",
+              "ToolTip": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Program.cs",
+              "RelativeToolTip": "Exam02Solution\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:47:18.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Exam\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Exam02Solution\\Exam\\FinalExam.cs",
+              "ToolTip": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Exam\\FinalExam.cs",
+              "RelativeToolTip": "Exam02Solution\\Exam\\FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:41:23.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Exam\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam02Solution\\Exam\\Exam.cs",
+              "ToolTip": "D:\\DEPI\\Projects\\Exam02Solution\\Exam02Solution\\Exam\\Exam.cs",
+              "RelativeToolTip": "Exam02Solution\\Exam\\Exam.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:41:19.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

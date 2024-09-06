@@ -1,0 +1,14 @@
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\bin\Debug\net8.0\Exam02Solution.exe
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\bin\Debug\net8.0\Exam02Solution.deps.json
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\bin\Debug\net8.0\Exam02Solution.runtimeconfig.json
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\bin\Debug\net8.0\Exam02Solution.dll
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\bin\Debug\net8.0\Exam02Solution.pdb
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.AssemblyInfoInputs.cache
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.AssemblyInfo.cs
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.csproj.CoreCompileInputs.cache
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.dll
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\refint\Exam02Solution.dll
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.pdb
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\Exam02Solution.genruntimeconfig.cache
+D:\DEPI\Projects\Exam02Solution\Exam02Solution\obj\Debug\net8.0\ref\Exam02Solution.dll
